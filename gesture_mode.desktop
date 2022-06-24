@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Gesture Mode Switcher
+Comment=Switches WACOM gesture mode when run
+Exec=/home/pebble/programming/bash/change_gesture_mode/change_gesture_mode.sh
+Icon=utilities-terminal
+Terminal=false
+Type=Application
+Categories=Utility;Application;
